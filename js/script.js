@@ -56,13 +56,13 @@ I have a strong passion for open-source projects and the Linux operating system,
     GitHub: github.com/MasterShayan`,
     projects: `Among my numerous projects, the top 10 are listed below:
 
-    - 101 TOOLs series
+    - LOX search engine
     - KDB
     - Flesh library
     - Zig-X library
     - Open River
     - Aria AI
-    - HiRAMiX APIs
+    - IR-2048 Protocol
     - Apsi PWA
     - X-note
     - Killer Mario
