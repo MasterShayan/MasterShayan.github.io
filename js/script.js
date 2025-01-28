@@ -26,6 +26,7 @@ I have a strong passion for open-source projects and the Linux operating system,
     - JavaScript
     - Python
     - PHP
+    - Rust
     - Bash scipt`,
     experience: `My initial years of programming were spent freelancing, followed by remote work or building my own team/brand:
 
