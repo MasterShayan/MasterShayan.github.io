@@ -25,19 +25,12 @@ I have a strong passion for open-source projects and the Linux operating system,
     - Zig
     - JavaScript
     - Python
-    - Node.js
     - PHP
-    - SQL (MySQL, SQL server & SQLite)
-    - NoSQL (MongoDB, Json, XML & Json)
-    - Bash scipt
-    - Docker
-    - Git`,
+    - Bash scipt`,
     experience: `My initial years of programming were spent freelancing, followed by remote work or building my own team/brand:
 
     - Owner and Head developer of Kyrus™. (2024-Present)
     - Back-End developer at SirMajazi store. (2024-Present)
-    - Bot & Database developer at Kuche Film (2022-Present)
-    - VPS cracker at VPS for sale! (2025-Present)
     - Owner and Bot developer of Khalij-e Fars e-sport (2024-Present)
     - Owner and API developer of HiRAMiX™. (2023-2024)`,
     education: `I'm self-taught, mainly learning from YouTube, but I've also completed a few valuable courses, including:
@@ -57,15 +50,10 @@ I have a strong passion for open-source projects and the Linux operating system,
     projects: `Among my numerous projects, the top 10 are listed below:
 
     - LOX search engine
-    - KDB
-    - Flesh library
-    - Zig-X library
-    - Open River
-    - Aria AI
-    - IR-2048 Protocol
-    - Apsi PWA
-    - X-note
-    - Killer Mario
+    - Pyig library
+    - Open River protocol
+    - RaSHaN AI
+    - Cytor APP
     
     (The source code for most is available on GitHub.com/MasterShayan)`,
     clear: `clear`
